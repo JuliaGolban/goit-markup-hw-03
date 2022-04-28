@@ -9,6 +9,7 @@
 body {
 	font-family: "Roboto", sans-serif;
 	letter-spacing: 0.03em;
+
 	color: var(--main-color-text);
 	background-color: var(--white-color);
 }
@@ -56,8 +57,6 @@ p {
 	margin-right: auto;
 	margin-top: 0;
 	margin-bottom: 0;
-
-	/* outline: 2px solid tomato; */
 }
 
 /* studio page */
@@ -95,8 +94,6 @@ p {
 	letter-spacing: 0.02em;
 
 	display: block;
-	/* padding-top: 32px;
-	padding-bottom: 32px; */
 }
 .site-nav-item + .site-nav-item,
 .contacts-item + .contacts-item {
@@ -301,7 +298,6 @@ p {
 	/* width: calc((100%-60px) / 3); */
 	margin-right: 30px;
 	margin-bottom: 30px;
-	/* outline: 1px solid teal; */
 }
 .projects-item:nth-child(3n) {
 	margin-right: 0;
